@@ -11,3 +11,11 @@ background: -webkit-linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 
 a {
     text-decoration: none;
 }
+
+.btn {
+    border-radius: 40px;
+}
+
+.btn .btn-border {
+    border: 3px;
+}
